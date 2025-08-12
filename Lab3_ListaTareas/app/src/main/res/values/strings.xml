@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3_ListaTareas</string>
+
+    <string name="main_title">Lista de Tareas</string>
+    <string name="add_task_placeholder">Escribe una nueva tarea...</string>
+    <string name="add_button">+ Agregar</string>
+    <string name="empty_task_error">El campo de la tarea no puede estar vacío</string>
+</resources>
